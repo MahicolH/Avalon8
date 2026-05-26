@@ -1,0 +1,14 @@
+{
+  "appId": "com.martel.parkaccess",
+  "appName": "Park Access Control",
+  "webDir": "www",
+  "server": {
+    "url": "https://interconvertible-flagrantly-adrianna.ngrok-free.dev",
+    "cleartext": false
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
